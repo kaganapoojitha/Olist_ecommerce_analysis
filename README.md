@@ -1,6 +1,6 @@
 ## 🛒 Olist E-Commerce Sales Analysis | SQL
 
-### Tools: PostgreSQL
+### Tools: PostgreSQL, PowerBI
 
 ### Business Problem
 Analyze 100K+ orders to identify revenue trends,
